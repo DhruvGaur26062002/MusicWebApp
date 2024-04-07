@@ -1,0 +1,12 @@
+#Services{
+    flex-direction: column;
+}
+/* .music-items{
+    flex-direction: column;
+} */
+#instruments{
+    overflow: hidden;
+}
+.navbar{
+    flex-direction: column;
+}
